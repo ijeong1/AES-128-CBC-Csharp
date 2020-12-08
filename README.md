@@ -1,5 +1,6 @@
 # AES Encrtyptor and Decryptor written in c#
 
+## How to use
 ```
 CSIdentityAPICrypto cS = new CSIdentityAPICrypto(" ### KEY ### ");
 string encrypted = cS.AESEncrypt(" __YOUR__PLAIN__TEXT__");
