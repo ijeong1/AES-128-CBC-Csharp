@@ -1,5 +1,4 @@
-# AES-128-CBC-C#
-AES 128 Encryption / Decryption
+# AES Encrtyptor and Decryptor written in c#
 
 ```
 CSIdentityAPICrypto cS = new CSIdentityAPICrypto(" ### KEY ### ");
